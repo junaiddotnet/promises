@@ -16,3 +16,5 @@ console.log(arr2);
 console.log("------------------");
 arr2.reverse();
 console.log(arr2);
+arr2.sort();
+console.log(arr2);
